@@ -1,1 +1,1 @@
-# mer-project
+# mern-project
