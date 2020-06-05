@@ -9,6 +9,12 @@ const Users = () => {
             name: 'Naren', 
             image:'https://img.icons8.com/officel/2x/user.png', 
             places: 3
+        },
+        {
+            id: 'u2', 
+            name: 'Narru', 
+            image:'https://img.icons8.com/officel/2x/user.png', 
+            places: 4
         }
     ];
     return <UsersList items={USERS}/>
